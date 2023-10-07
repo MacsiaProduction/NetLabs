@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Net1/target/debug/build/proc-macro2-a14f3aaafb204166/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Net1/target/debug/build/serde-2ada3d58443ed09c/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Net1/target/debug/build/serde_json-88a3de927037840e/out" />
+      <excludeFolder url="file://$MODULE_DIR$/Net1/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/net2/target/debug/.fingerprint/net2-14c1346631b8c1b5" />
+      <excludeFolder url="file://$MODULE_DIR$/net2/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/net2/target/debug/deps" />
+      <excludeFolder url="file://$MODULE_DIR$/net2/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/net2/target/debug/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
